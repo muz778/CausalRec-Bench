@@ -1,0 +1,14 @@
+# Data files - use python download_data.py
+data/
+pretrained_models/
+figures/
+results/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
